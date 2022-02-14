@@ -1,7 +1,12 @@
 {
-	"4": {
-		"url": "cashcrash.net",
+	"1": {
+		"url": "example.com",
 		"title": "Down for maintenance",
-		"subtext": "Cashcrash is down for maintenance."
-	}
+		"subtext": "Example.com is down for maintenance."
+	},
+	"2": {
+                "url": "google.com",
+                "title": "Updating",
+                "subtext": "google.com is currently updating"
+        }
 }
